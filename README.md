@@ -1,6 +1,6 @@
 ## Hello 👋 🇫🇷
 
-I'm Damien Lacahmbre, a French engineer in computer sciences.
+I'm Damien Lachambre, a French engineer in computer sciences.
 
 ### Here is some usefull links
 
