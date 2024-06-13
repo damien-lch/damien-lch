@@ -1,4 +1,6 @@
-## I'm Damien Lachambre 👋
+## Hello 👋 🇫🇷
+
+I'm Damien Lacahmbre, a French engineer in computer sciences.
 
 ### Here is some usefull links
 
